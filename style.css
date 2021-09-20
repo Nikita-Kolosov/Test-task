@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    quotes: "\00ab" "\00bb";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.content {
+    margin: 50px auto;
+    width: 300px;
+    text-align: center;
+    line-height: 1.3em;
+}
+
+.picture {
+    width: 100%;
+}
+
+q {
+    quotes: "\00ab" "\00bb";
+}
+
+.cost {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 15px;
+    letter-spacing: .1em;
+}
+
+.rub {
+    line-height: 5px;
+    width: 0.4em;
+    border-bottom: 1px solid #000;
+    display: inline-block;
+}
+
+.button {
+    width: 200px;
+    margin: 15px auto;
+    color: white;
+    background-color: deeppink;
+    padding: 15px 0px;
+    border-radius: 30px;
+}
